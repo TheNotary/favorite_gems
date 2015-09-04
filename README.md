@@ -17,6 +17,10 @@
   > Benchmark tests
   > Enbales assert_performance_linear
 
+- http://graphviz.org/
+#development #SoftwareArchitecture
+  > Markup lang for describing flow charts
+
 - ruby-bbcode
 #web
   > Converts user's submitted bbcode into html
